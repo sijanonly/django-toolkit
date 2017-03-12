@@ -7,7 +7,7 @@
 
 Linux 64-bit
 
-# Python 3
+#### Python 3
 $ sudo apt-get install python3-pip python3-dev python3-virtualenv
 
 Mac OS X
@@ -23,7 +23,7 @@ More on virtualenv ([http://docs.python-guide.org/en/latest/dev/virtualenvs/])
 
 To create a new Django project (make sure to change `project_name`)
 
-    django-admin.py startproject --template=https://github.com/fasouto/django-starter-template/archive/master.zip --extension=py,md,html,txt,less project_name
+    django-admin.py startproject --template=https://github.com/sijanonly/django-toolkit/archive/master.zip --extension=py,md,html,txt,less test_project
 
 cd to your project and install the dependences
 
