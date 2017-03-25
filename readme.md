@@ -39,3 +39,4 @@ Once everything it's setup you can run the development server: [http://localhost
 
 
 Feel free to contribute.[# How to contribute to a project ?](https://guides.github.com/activities/contributing-to-open-source/#contributing target="_blank")
+<a href="https://guides.github.com/activities/contributing-to-open-source/#contributing" target="_blank"># How to contribute to a project ?</a>
