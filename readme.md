@@ -21,9 +21,9 @@ More on virtualenv ([http://docs.python-guide.org/en/latest/dev/virtualenvs/])
 
     pip install django==1.10
 
-To create a new Django project (make sure to change `test_project`)
+To create a new Django project (make sure to change `project_name`)
 
-    django-admin.py startproject --template=https://github.com/sijanonly/django-toolkit/archive/master.zip test_project
+    django-admin.py startproject --template=https://github.com/sijanonly/django-toolkit/archive/master.zip project_name
 
 cd to your project and install the dependences
 
