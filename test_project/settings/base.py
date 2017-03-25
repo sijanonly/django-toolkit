@@ -145,7 +145,7 @@ TEMPLATES = [
 
 # URL SETTINGS
 # https://docs.djangoproject.com/en/1.10/ref/settings/#root-urlconf.
-ROOT_URLCONF = 'django_starter_toolkit.urls'
+ROOT_URLCONF = '{{ test_project }}.urls'
 
 
 # MIDDLEWARE SETTINGS

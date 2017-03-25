@@ -42,7 +42,7 @@ DEBUG_TOOLBAR_CONFIG = {
     'TAG': 'body',
     'SHOW_TEMPLATE_CONTEXT': True,
     'ENABLE_STACKTRACES': True,
-    'SHOW_TOOLBAR_CALLBACK': 'django_starter_toolkit.settings.development.show_toolbar',
+    'SHOW_TOOLBAR_CALLBACK': '{{ test_project }}.settings.development.show_toolbar',
 }
 
 DEBUG_TOOLBAR_PANELS = (
