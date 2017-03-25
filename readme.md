@@ -38,4 +38,4 @@ Once everything it's setup you can run the development server: [http://localhost
     python manage.py runserver
 
 
-Feel free to contribute.[# How to contribute to a project ?](https://guides.github.com/activities/contributing-to-open-source/#contributing) {:target="_blank"}
+Feel free to contribute.[# How to contribute to a project ?](https://guides.github.com/activities/contributing-to-open-source/#contributing target="_blank")
