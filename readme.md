@@ -5,14 +5,14 @@
 
 ### Set up virtual python environment
 
-Linux 64-bit
+##### Linux 64-bit
 
-#### Python 3
 $ sudo apt-get install python3-pip python3-dev python3-virtualenv
 
-Mac OS X
+##### Mac OS X
 
 $ sudo easy_install pip
+
 $ sudo pip install --upgrade virtualenv
 
 More on virtualenv ([http://docs.python-guide.org/en/latest/dev/virtualenvs/])
