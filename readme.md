@@ -7,13 +7,13 @@
 
 ##### Linux 64-bit
 
-$ sudo apt-get install python3-pip python3-dev python3-virtualenv
+     sudo apt-get install python3-pip python3-dev python3-virtualenv
 
 ##### Mac OS X
 
-$ sudo easy_install pip
+     sudo easy_install pip
 
-$ sudo pip install --upgrade virtualenv
+     sudo pip install --upgrade virtualenv
 
 More on virtualenv ([http://docs.python-guide.org/en/latest/dev/virtualenvs/])
 
